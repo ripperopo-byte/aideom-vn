@@ -5,19 +5,7 @@
 
 ---
 
-## 📌 Giới thiệu
-
-Đây là trang web trình bày báo cáo cuối kỳ môn **BSA3035**, gồm 12 bài tập mô hình hóa kinh tế được nhóm thành **bốn cấp độ câu hỏi**, kèm **20 biểu đồ phân tích** nhúng trực tiếp. Toàn bộ số liệu được tính trực tiếp từ mã nguồn Google Colab.
-
-| | |
-|---|---|
-| **Sinh viên** | Trần Đình Hướng |
-| **MSV** | 23050491 |
-| **Lớp** | QH-2023-E KTPT 3 |
-| **GVHD** | TS. Phạm Văn Khánh |
-| **Học phần** | BSA3035 · 2026 |
-
----
+#
 
 ## 🗂️ Nội dung trang web
 
@@ -37,7 +25,7 @@
 
 ---
 
-## 📊 Bốn con số đáng nhớ
+##  Bốn con số đáng nhớ
 
 - **+25,8%** — TFP tăng 2020–2025 (gần một nửa tăng trưởng đến từ hiệu quả)
 - **14.472** — GDP dự báo 2030 (nghìn tỷ)
@@ -48,7 +36,7 @@
 
 ---
 
-## 🚀 Cách chạy
+##  Cách chạy
 
 ### Xem trực tiếp
 File `index.html` là trang web hoàn chỉnh, **tự chứa** (biểu đồ nhúng dạng base64) — chỉ cần mở bằng trình duyệt là chạy, không cần thư mục ảnh kèm theo.
@@ -67,7 +55,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📁 Cấu trúc thư mục
+##  Cấu trúc thư mục
 
 ```
 .
